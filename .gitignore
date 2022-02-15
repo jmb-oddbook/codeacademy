@@ -3,3 +3,5 @@ testing/
 
 # small programmes with personal information
 project1/python_starters/exercises.ipynb
+
+.ipynb_checkpoints
